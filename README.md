@@ -4,7 +4,7 @@
 
 The app uses the Context API for state management, with caching and persistence between renders for a smooth experience.
 
-Built with: JavaScript, TypeScript, React, CSS, Context API
+Built with: TypeScript, React, CSS, Context API
 
 ---
 
